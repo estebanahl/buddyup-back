@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+**.vs
+**/bin/
+**/obj
+**/bin
+**/.vscode
+**buddyup-back.sln
+**/Properties/PublishProfiles
+**/Properties/ServiceDependencies
+**/Properties/serviceDependencies.buddyup - Web Deploy.json
+**/Properties/serviceDependencies.buddyup - Web Deploy.json.user
+**/Properties/serviceDependencies.json
+**/.config
+=======
+**.config
+**.vscode
+**bin
+**obj
+>>>>>>> b4279f0 (copia de la última versión de buddy up)
